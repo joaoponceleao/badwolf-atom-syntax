@@ -1,0 +1,15 @@
+{
+  "name": "badwolf-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Updated badwolf fork from github.com/kacky24/kackywolf-syntax",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/joaoponceleao/badwolf-atom-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
